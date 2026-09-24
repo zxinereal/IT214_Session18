@@ -1,0 +1,7 @@
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\inventory-service\src\main\java\com\shopmart\inventoryservice\controller\InventoryController.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\inventory-service\src\main\java\com\shopmart\inventoryservice\kafka\InventoryKafkaListener.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\inventory-service\src\main\java\com\shopmart\inventoryservice\entity\ProductInventory.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\inventory-service\src\main\java\com\shopmart\inventoryservice\service\InventoryService.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\inventory-service\src\main\java\com\shopmart\inventoryservice\event\OrderEvent.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\inventory-service\src\main\java\com\shopmart\inventoryservice\InventoryServiceApplication.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\inventory-service\src\main\java\com\shopmart\inventoryservice\repository\ProductInventoryRepository.java

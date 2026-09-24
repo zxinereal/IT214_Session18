@@ -1,0 +1,7 @@
+com\shopmart\inventoryservice\controller\InventoryController.class
+com\shopmart\inventoryservice\InventoryServiceApplication.class
+com\shopmart\inventoryservice\service\InventoryService.class
+com\shopmart\inventoryservice\repository\ProductInventoryRepository.class
+com\shopmart\inventoryservice\event\OrderEvent.class
+com\shopmart\inventoryservice\kafka\InventoryKafkaListener.class
+com\shopmart\inventoryservice\entity\ProductInventory.class

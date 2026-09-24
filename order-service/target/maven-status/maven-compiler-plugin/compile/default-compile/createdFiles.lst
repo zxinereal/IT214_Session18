@@ -1,0 +1,11 @@
+com\shopmart\orderservice\kafka\KafkaOrderEventPublisher.class
+com\shopmart\orderservice\kafka\OrderEventPublisher.class
+com\shopmart\orderservice\repository\OrderRepository.class
+com\shopmart\orderservice\entity\Order.class
+com\shopmart\orderservice\client\InventoryFeignClient.class
+com\shopmart\orderservice\dto\ProductInventoryResponse.class
+com\shopmart\orderservice\event\OrderEvent.class
+com\shopmart\orderservice\kafka\OrderKafkaListener.class
+com\shopmart\orderservice\OrderServiceApplication.class
+com\shopmart\orderservice\controller\OrderController.class
+com\shopmart\orderservice\service\OrderService.class

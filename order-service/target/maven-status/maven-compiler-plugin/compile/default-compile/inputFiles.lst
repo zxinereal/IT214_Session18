@@ -1,0 +1,11 @@
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\order-service\src\main\java\com\shopmart\orderservice\client\InventoryFeignClient.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\order-service\src\main\java\com\shopmart\orderservice\service\OrderService.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\order-service\src\main\java\com\shopmart\orderservice\entity\Order.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\order-service\src\main\java\com\shopmart\orderservice\kafka\OrderEventPublisher.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\order-service\src\main\java\com\shopmart\orderservice\repository\OrderRepository.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\order-service\src\main\java\com\shopmart\orderservice\dto\ProductInventoryResponse.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\order-service\src\main\java\com\shopmart\orderservice\kafka\OrderKafkaListener.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\order-service\src\main\java\com\shopmart\orderservice\event\OrderEvent.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\order-service\src\main\java\com\shopmart\orderservice\kafka\KafkaOrderEventPublisher.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\order-service\src\main\java\com\shopmart\orderservice\OrderServiceApplication.java
+C:\Users\LOQ 2023\Desktop\Rikkei\HKIV\IT214\BTTH\ss18\order-service\src\main\java\com\shopmart\orderservice\controller\OrderController.java
